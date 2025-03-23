@@ -1,0 +1,3 @@
+- `dir()` - variables in current scope
+- `__file__` - current filename.
+- `sys.argv[0]` - filename of the script
