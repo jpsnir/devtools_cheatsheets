@@ -2,4 +2,4 @@
 Notes on common tools that I use for productivity improvement.
 
 
-- [vscode tips](#vscode.md)
+- [vscode tips](vscode.md)
